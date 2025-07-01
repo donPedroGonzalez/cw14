@@ -146,7 +146,9 @@ function addMatchingStyles() {
             cursor: pointer;
             transition: all 0.3s ease;
             position: relative;
-            font-size: 16px;
+            font-size: 20px;
+            font-family: Garamond, serif;
+            font-weight: bold;
             text-align: center;
         }
         
